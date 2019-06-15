@@ -1,0 +1,13 @@
+/home/adialachar/functional_p/F#/src/src/App/bin/Debug/netcoreapp2.2/App.deps.json
+/home/adialachar/functional_p/F#/src/src/App/bin/Debug/netcoreapp2.2/App.runtimeconfig.json
+/home/adialachar/functional_p/F#/src/src/App/bin/Debug/netcoreapp2.2/App.runtimeconfig.dev.json
+/home/adialachar/functional_p/F#/src/src/App/bin/Debug/netcoreapp2.2/App.dll
+/home/adialachar/functional_p/F#/src/src/App/bin/Debug/netcoreapp2.2/App.pdb
+/home/adialachar/functional_p/F#/src/src/App/bin/Debug/netcoreapp2.2/Library.dll
+/home/adialachar/functional_p/F#/src/src/App/bin/Debug/netcoreapp2.2/Library.pdb
+/home/adialachar/functional_p/F#/src/src/App/obj/Debug/netcoreapp2.2/App.fsprojAssemblyReference.cache
+/home/adialachar/functional_p/F#/src/src/App/obj/Debug/netcoreapp2.2/App.AssemblyInfoInputs.cache
+/home/adialachar/functional_p/F#/src/src/App/obj/Debug/netcoreapp2.2/App.AssemblyInfo.fs
+/home/adialachar/functional_p/F#/src/src/App/obj/Debug/netcoreapp2.2/App.fsproj.CopyComplete
+/home/adialachar/functional_p/F#/src/src/App/obj/Debug/netcoreapp2.2/App.dll
+/home/adialachar/functional_p/F#/src/src/App/obj/Debug/netcoreapp2.2/App.pdb
