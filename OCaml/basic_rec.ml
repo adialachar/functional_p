@@ -17,3 +17,20 @@
     let cpu_arch   = sh "uname -p" in
     let os_release = sh "uname -r" in
     let timestamp  = Time.now () in
+
+
+
+
+/* use of skip and take */
+   # let take list =
+	if list = []
+	then []
+	else List.hd list :: skip (List.tl list)
+      ;;
+    Unbound value skip
+    # let skip list =
+	if list = []
+	then []
+	else take (List.tl list)
+      ;;
+    Unbound value take
