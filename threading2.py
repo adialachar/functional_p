@@ -1,4 +1,6 @@
 import time
+import datetime
+import _thread
 
 def calc_square(numbers):
     print("calculate square numbers")
@@ -13,7 +15,9 @@ def calc_cube(numbers):
         print('cube:',n*n*n)
 
 arr = [2,3,8,9]
+Arr2 = [5,48,76,88]
 
 t = time.time()
+Now = datetime.datetime.now()
 calc_square(arr)
 calc_cube(arr)
